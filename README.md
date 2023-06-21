@@ -6,7 +6,7 @@
 > 
 > 普通玩家选择标准模式，高端玩家选择自定义模式。
 
-* [在线阅读](https://calc4b.apachecn.org)
+* [在线阅读](https://calc4b.flygon.net)
 ## 下载
 
 ### Docker
